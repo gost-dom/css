@@ -338,7 +338,7 @@ var selectorTests = []selectorTest{
 		},
 	},
 	{
-		"body p em", // https://github.com/ericchiang/css/issues/7
+		"body p em", // https://github.com/gost-dom/css/issues/7
 		`
 				<html>
 					<body>
